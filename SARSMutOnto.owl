@@ -9508,6 +9508,214 @@
   <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XAY"/>
 </owl:Class>
 
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XAY.3">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XAY"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XAZ">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.2.5"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.5"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBA">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#AY.45"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.4"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BJ.1"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BM.1.1.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.2">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.3">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.4">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.4.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.4"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.5">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.6">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.7">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.8">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.9">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.9.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.9"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.2">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.2.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.2"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.2.2">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.2"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3.2">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3.3">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.4">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.4.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.4"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.5">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.6">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.6.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.6"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.2"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#B.1.617.2"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1.1.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1.2">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1.2.1">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1.2"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.2">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBD">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.2.75.2"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BF.5"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBE">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.5.2"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BE.4.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBF">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.5.2.3"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#CJ.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBG">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.2.76"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.5.2"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBH">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.2.3.17"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.2.75.2"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBJ">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.2.3.20"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.5.2"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBK">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.5.2"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#CJ.1"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBL">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.2.75"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBM">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.2.76"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BF.3"/>
+</owl:Class>
+
+<owl:Class rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBN">
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#recombinant"/>
+  <rdfs:subClassOf rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#BA.2.75"/>
+</owl:Class>
+
 <non_structural_gene rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#orf1a">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </non_structural_gene>
@@ -33564,6 +33772,273 @@
   <has_for_lineage rdf:resource="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XAY.2__lineage"/>
   <mutation_name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">y3765c</mutation_name>
 </SNP>
+<XAY.3 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XAY.3__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XAY.3</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">South Africa/Mauritius/Switzerland/France, ORF1b:D1869Y</has_for_description>
+</XAY.3>
+
+<XAZ rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XAZ__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XAZ</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.2.5, BA.5. and BA.2.5, predominantly found in France, Germany, Croatia, Denmark and USA, from pango-designation issue #797</has_for_description>
+</XAZ>
+
+<XBA rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBA__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBA</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of perhaps AY.45 and perhaps BA.2 (with perhaps 5 breakpoints), South_Africa lineage, constellation 2 from pango-designation issue #844</has_for_description>
+</XBA>
+
+<XBB rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BJ.1 and BA.2.75 with breakpoint in S1, found in USA and Singapore, from issue #1058</has_for_description>
+</XBB>
+<XBB.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mostly Bangladesh and Singapore, defined by S:G252V, from issue #1088</has_for_description>
+</XBB.1>
+<XBB.1.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Singapore/Denmark, defined by ORF1a:P309L</has_for_description>
+</XBB.1.1>
+
+<XBB.1.2 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.2__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.2</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Singapore, defined by S:S640F</has_for_description>
+</XBB.1.2>
+
+<XBB.1.3 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.3__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.3</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Singapore, India/Italy, defined by S:A484T</has_for_description>
+</XBB.1.3>
+
+<XBB.1.4 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.4__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.4</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Europe, S:T883I</has_for_description>
+</XBB.1.4>
+
+<XBB.1.4.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.4.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.4.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mainly Denmark, Norway and Sweden, defined by S:S673G, from pango-designation issue #1352</has_for_description>
+</XBB.1.4.1>
+
+<XBB.1.5 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.5__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.5</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USA, S:F486P</has_for_description>
+</XBB.1.5>
+
+<XBB.1.6 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.6__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.6</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USA, S:L216F, S:H146K, from issue #1428</has_for_description>
+</XBB.1.6>
+
+<XBB.1.7 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.7__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.7</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USA-NY, S:V608I</has_for_description>
+</XBB.1.7>
+
+<XBB.1.8 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.8__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.8</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Denmark, S:186insSGG, C3241T</has_for_description>
+</XBB.1.8>
+
+<XBB.1.9 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.9__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.9</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ORF1a:G1819S, ORF1a:T4175I</has_for_description>
+</XBB.1.9>
+
+<XBB.1.9.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.1.9.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.1.9.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S:F486P, England/South Korea/Singapore/Denmark</has_for_description>
+</XBB.1.9.1>
+
+<XBB.2 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.2__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.2</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by S:D253G, from issue #1173</has_for_description>
+</XBB.2>
+
+<XBB.2.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.2.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.2.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by S:N764S</has_for_description>
+</XBB.2.1>
+
+<XBB.2.2 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.2.2__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.2.2</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by S:Q613H</has_for_description>
+</XBB.2.2>
+
+<XBB.3 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.3</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by ORF1b:I1988V on ORF1a:D82G branch</has_for_description>
+</XBB.3>
+
+<XBB.3.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.3.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by S:Q677R, India-TN/Singapore, from issue #1241</has_for_description>
+</XBB.3.1>
+
+<XBB.3.2 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3.2__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.3.2</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by S:M177T</has_for_description>
+</XBB.3.2>
+
+<XBB.3.3 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.3.3__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.3.3</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by S:V1122L, USA</has_for_description>
+</XBB.3.3>
+
+<XBB.4 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.4__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.4</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by S:K444R on ORF1a:D82G branch, from issue #1239</has_for_description>
+</XBB.4>
+
+<XBB.4.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.4.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.4.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">England/Austria, S:L5F, S:T470N</has_for_description>
+</XBB.4.1>
+
+<XBB.5 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.5__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.5</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by S:A653V on ORF1a:D82G branch, India-TN, Singapore, Australia</has_for_description>
+</XBB.5>
+
+<XBB.6 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.6__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.6</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by C14178T, USA/India/England</has_for_description>
+</XBB.6>
+
+<XBB.6.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBB.6.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB.6.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defined by S:F486P, USA, from #1459</has_for_description>
+</XBB.6.1>
+
+<XBC rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBC</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.2 and B.1.617.2*, predominantly in Philippines, from pango-designation issue #1100</has_for_description>
+</XBC>
+
+<XBC.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBC.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mostly Philippines, South Korea, US, Singapore, defined by S:L452M, from issue #1130</has_for_description>
+</XBC.1>
+
+<XBC.1.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBC.1.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mostly Australia, ORF1a:I3619T, ORF8:V114L</has_for_description>
+</XBC.1.1>
+
+<XBC.1.1.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1.1.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBC.1.1.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Australia, S:G476S</has_for_description>
+</XBC.1.1.1>
+
+<XBC.1.2 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1.2__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBC.1.2</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Philippines/Netherlands/Denmark, T11269C</has_for_description>
+</XBC.1.2>
+
+<XBC.1.2.1 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.1.2.1__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBC.1.2.1</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Denmark, ORF1b:T132I</has_for_description>
+</XBC.1.2.1>
+
+<XBC.2 rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBC.2__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBC.2</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mostly Philippines, defined by S:K97R</has_for_description>
+</XBC.2>
+
+<XBD rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBD__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBD</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-designation issue #1137</has_for_description>
+</XBD>
+
+<XBE rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBE__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBE</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.5.2 and BE.4.1, predominantly in USA and England, from pango-designation issue #1246</has_for_description>
+</XBE>
+
+<XBF rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBF__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBF</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.5.2.3 and CJ.1, Australia, from pango-designation issue #1259</has_for_description>
+</XBF>
+
+<XBG rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBG__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBG</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.2.76 and BA.5.2, predominantly in UK, from pango-designation issue #896</has_for_description>
+</XBG>
+
+<XBH rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBH__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBH</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.2.3.17 and BA.2.75.2, predominantly in Brunei, from pango-designation issue #1229</has_for_description>
+</XBH>
+
+<XBJ rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBJ__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBJ</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.2.3.20 and BA.5.2, possibly Philippines, from pango-designation issue #1268</has_for_description>
+</XBJ>
+
+<XBK rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBK__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBK</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.5.2 and CJ.1, Denmark/Europe, from pango-designation issue #1418</has_for_description>
+</XBK>
+
+<XBL rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBL__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBL</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of XBB.1 with S:F486P and BA.2.75, Malaysia, from issue #1532</has_for_description>
+</XBL>
+
+<XBM rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBM__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBM</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.2.76 and BF.3, India/USA/Canada, from issue #1441</has_for_description>
+</XBM>
+
+<XBN rdf:about="https://github.com/jbakkas/SARSMutOnto/blob/main/SARSMutOnto.owl#XBN__lineage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBN</label>
+  <has_for_description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recombinant lineage of BA.2.75 and XBB.3, mainly found in USA, from pango-designation issue #1296</has_for_description>
+</XBN>
 
 
 </rdf:RDF>
