@@ -50,12 +50,12 @@
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
 </owl:DatatypeProperty>
 
-<owl:Class rdf:about="https://raw.githubusercontent.com/jbakkas/SARSMutOnto/main/SARSMutOnto.owl#SARS_CoV2">
+<owl:Class rdf:about="https://raw.githubusercontent.com/jbakkas/SARSMutOnto/main/SARSMutOnto.owl#SARS-CoV-2">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
 </owl:Class>
 
 <owl:Class rdf:about="https://raw.githubusercontent.com/jbakkas/SARSMutOnto/main/SARSMutOnto.owl#genome">
-  <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/jbakkas/SARSMutOnto/main/SARSMutOnto.owl#SARS_CoV2"/>
+  <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/jbakkas/SARSMutOnto/main/SARSMutOnto.owl#SARS-CoV-2"/>
 </owl:Class>
 
 <owl:Class rdf:about="https://raw.githubusercontent.com/jbakkas/SARSMutOnto/main/SARSMutOnto.owl#gene">
@@ -75,7 +75,7 @@
 </owl:Class>
 
 <owl:Class rdf:about="https://raw.githubusercontent.com/jbakkas/SARSMutOnto/main/SARSMutOnto.owl#variant">
-  <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/jbakkas/SARSMutOnto/main/SARSMutOnto.owl#SARS_CoV2"/>
+  <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/jbakkas/SARSMutOnto/main/SARSMutOnto.owl#SARS-CoV-2"/>
 </owl:Class>
 
 <owl:Class rdf:about="https://raw.githubusercontent.com/jbakkas/SARSMutOnto/main/SARSMutOnto.owl#lineage">
